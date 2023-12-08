@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maii</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A frontend developer</h3>
 <p> <img align="right"
             src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e4796hgvasvp0mcfpocti23fzqd5jdfenyxqtjk7w5e&ep=v1_gifs_search&rid=200.webp&ct=g"
             alt="mai-asaad" /> </p>
